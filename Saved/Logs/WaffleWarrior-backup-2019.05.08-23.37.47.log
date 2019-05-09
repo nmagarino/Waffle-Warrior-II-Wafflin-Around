@@ -1,0 +1,1533 @@
+﻿Log file open, 05/08/19 18:52:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: WaffleWarrior
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 13.149448
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.339s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.08-22.52.07:680][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.08-22.52.07:680][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.08-22.52.07:680][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Engine.ini]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Engine.ini]
+[2019.05.08-22.52.07:681][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Engine.ini]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.08-22.52.07:681][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Engine.ini]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.08-22.52.07:682][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.08-22.52.07:683][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.08-22.52.07:683][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.08-22.52.07:683][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Engine.ini]
+[2019.05.08-22.52.07:683][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Engine.ini]
+[2019.05.08-22.52.07:783][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:783][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.08-22.52.07:783][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.08-22.52.07:783][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:783][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.08-22.52.07:784][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.08-22.52.07:785][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.08-22.52.07:786][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.08-22.52.07:787][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.08-22.52.07:796][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.08-22.52.07:797][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.08-22.52.07:910][  0]LogHAL: Display: Platform has ~ 8 GB [8429932544 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.08-22.52.07:925][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.08-22.52.07:925][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.08-22.52.07:925][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:925][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.08-22.52.07:926][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.08-22.52.07:927][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.08-22.52.07:928][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.08-22.52.07:929][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.08-22.52.07:930][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Scalability.ini]
+[2019.05.08-22.52.07:930][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.08-22.52.07:930][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.08-22.52.07:930][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.08-22.52.07:950][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.08-22.52.07:950][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Unreal Projects/WaffleWarrior/Saved/Config/Windows/Engine.ini]
+[2019.05.08-22.52.07:979][  0]LogInit: Computer: MSI
+[2019.05.08-22.52.07:979][  0]LogInit: User: nmaga
+[2019.05.08-22.52.07:979][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.08-22.52.07:979][  0]LogInit: High frequency timer resolution =2.250001 MHz
+[2019.05.08-22.52.07:980][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2019.05.08-22.52.07:980][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.08-22.52.07:980][  0]LogMemory: Process Physical Memory: 102.19 MB used, 102.19 MB peak
+[2019.05.08-22.52.07:980][  0]LogMemory: Process Virtual Memory: 91.63 MB used, 91.63 MB peak
+[2019.05.08-22.52.07:980][  0]LogMemory: Physical Memory: 3665.34 MB used,  4374.07 MB free, 8039.41 MB total
+[2019.05.08-22.52.07:980][  0]LogMemory: Virtual Memory: 4652.72 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.05.08-22.52.11:453][  0]LogInit: Using OS detected language (en-US).
+[2019.05.08-22.52.11:453][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.08-22.52.11:471][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.08-22.52.12:378][  0]LogStreaming: Display: Took  0.915s to InitEngineTextLocalization.
+[2019.05.08-22.52.12:458][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.08-22.52.13:242][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.08-22.52.13:242][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.08-22.52.15:275][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.08-22.52.15:275][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.08-22.52.16:271][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.05.08-22.52.16:271][  0]LogD3D11RHI:       1979/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.08-22.52.16:543][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.05.08-22.52.16:543][  0]LogD3D11RHI:       128/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.08-22.52.16:575][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.08-22.52.16:575][  0]LogD3D11RHI:       0/0/4019 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.08-22.52.16:575][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.08-22.52.16:670][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.08-22.52.16:670][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.05.08-22.52.16:670][  0]LogWindows: EnumDisplayDevices:
+[2019.05.08-22.52.16:670][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.05.08-22.52.16:681][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.08-22.52.16:681][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.05.08-22.52.16:682][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.05.08-22.52.16:682][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.05.08-22.52.16:682][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.05.08-22.52.16:682][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.05.08-22.52.16:692][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2019.05.08-22.52.16:848][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.08-22.52.17:308][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2019.05.08-22.52.18:973][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.08-22.52.19:004][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.08-22.52.19:040][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.08-22.52.19:071][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.08-22.52.19:118][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.08-22.52.19:165][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.08-22.52.19:190][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.08-22.52.19:214][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.08-22.52.19:227][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:317][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.08-22.52.19:364][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.08-22.52.19:533][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.08-22.52.19:533][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.08-22.52.19:617][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.08-22.52.19:617][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.08-22.52.19:659][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.08-22.52.19:684][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.08-22.52.19:697][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.08-22.52.19:713][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.08-22.52.19:766][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.08-22.52.19:766][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.08-22.52.19:766][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.08-22.52.20:750][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Unreal Projects/WaffleWarrior/Intermediate/Shaders/WorkingDirectory/14872/).
+[2019.05.08-22.52.20:750][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nmaga/AppData/Local/Temp/UnrealShaderWorkingDir/905DF1484952876420A255BB90DA1242/'.
+[2019.05.08-22.52.20:793][  0]LogXGEController: Cleaning working directory: C:/Users/nmaga/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.08-22.52.20:794][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.08-22.52.20:794][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.08-22.52.20:794][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.08-22.52.23:961][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.08-22.52.24:863][  0]LogDerivedDataCache: Loaded boot cache 0.90s 85MB C:/Users/nmaga/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.08-22.52.24:863][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nmaga/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.08-22.52.24:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Unreal Projects/WaffleWarrior/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.08-22.52.24:864][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.08-22.52.24:864][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Unreal Projects/WaffleWarrior/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.08-22.52.24:864][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.08-22.52.25:002][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.08-22.52.25:003][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.08-22.52.25:003][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.08-22.52.25:024][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nmaga/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.08-22.52.25:024][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.08-22.52.25:024][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.08-22.52.25:233][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.08-22.52.25:350][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.08-22.52.25:440][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.08-22.52.26:622][  0]LogAssetRegistry: FAssetRegistry took 0.0985 seconds to start up
+[2019.05.08-22.52.31:901][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.08-22.52.34:353][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.08-22.52.34:526][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.08-22.52.34:526][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.08-22.52.34:550][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.08-22.52.34:550][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.08-22.52.35:285][  0]LogNetVersion: WaffleWarrior 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 502467520)
+[2019.05.08-22.52.43:615][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.319491 seconds
+[2019.05.08-22.52.43:660][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.08-22.52.43:660][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.08-22.52.43:660][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.08-22.52.55:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.08-22.52.55:140][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.08-22.52.57:887][  0]SourceControl: Source control is disabled
+[2019.05.08-22.52.57:905][  0]SourceControl: Source control is disabled
+[2019.05.08-22.52.57:994][  0]SourceControl: Source control is disabled
+[2019.05.08-22.52.58:017][  0]SourceControl: Source control is disabled
+[2019.05.08-22.52.59:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.08-22.53.00:227][  0]LogOcInput: OculusInput pre-init called
+[2019.05.08-22.53.02:394][  0]LogEngine: Initializing Engine...
+[2019.05.08-22.53.02:460][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.08-22.53.02:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.08-22.53.02:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.08-22.53.02:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.05.08-22.53.02:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.08-22.53.03:795][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.08-22.53.04:770][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.08-22.53.05:202][  0]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.08-22.53.05:425][  0]LogInit: FAudioDevice initialized.
+[2019.05.08-22.53.05:442][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.08-22.53.06:002][  0]LogDerivedDataCache: Saved boot cache 0.56s 85MB C:/Users/nmaga/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.08-22.53.06:047][  0]LogInit: Texture streaming: Enabled
+[2019.05.08-22.53.06:443][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.08-22.53.07:147][  0]LogInit: Transaction tracking system initialized
+[2019.05.08-22.53.07:832][  0]BlueprintLog: New page: Editor Load
+[2019.05.08-22.53.10:469][  0]LocalizationService: Localization service is disabled
+[2019.05.08-22.53.17:437][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/WaffleWarrior/Content/' took 0.08s
+[2019.05.08-22.53.17:437][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.08-22.53.17:465][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.08-22.53.17:476][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.08-22.53.17:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.08-22.53.17:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.08-22.53.17:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.08-22.53.17:477][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.08-22.53.20:844][  0]SourceControl: Source control is disabled
+[2019.05.08-22.53.20:946][  0]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.08-22.53.21:069][  0]LightingResults: New page: Lighting Build
+[2019.05.08-22.53.21:817][  0]MapCheck: New page: Map Check
+[2019.05.08-22.53.21:817][  0]LightingResults: New page: Lighting Build
+[2019.05.08-22.53.26:944][  0]LogAIModule: Creating AISystem for world StartupMap
+[2019.05.08-22.53.29:170][  0]LogEditorServer: Finished looking for orphan Actors (0.004 secs)
+[2019.05.08-22.53.29:748][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.08-22.53.29:791][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 33.76ms to complete.
+[2019.05.08-22.53.29:820][  0]LogFileHelpers: Loading map 'StartupMap' took 8.939
+[2019.05.08-22.53.33:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-22.53.33:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-22.53.33:694][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-22.53.33:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-22.53.33:820][  0]LogCollectionManager: Loaded 0 collections in 0.008103 seconds
+[2019.05.08-22.53.33:912][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/WaffleWarrior/Saved/Collections/' took 0.01s
+[2019.05.08-22.53.33:912][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/WaffleWarrior/Content/Developers/nmaga/Collections/' took 0.01s
+[2019.05.08-22.53.33:912][  0]LogFileCache: Scanning file cache for directory 'C:/Unreal Projects/WaffleWarrior/Content/Collections/' took 0.00s
+[2019.05.08-22.53.33:912][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.08-22.53.33:947][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2651 classes and 620 folders.
+[2019.05.08-22.53.34:086][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.08-22.53.34:166][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:237][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:274][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:391][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:406][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:424][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:434][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:446][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:471][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:502][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:507][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:514][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:528][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:532][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:536][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:554][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:561][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:565][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:584][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:592][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:596][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:600][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:604][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.34:608][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.08-22.53.36:708][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.05.08-22.53.36:780][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.05.08-22.53.37:239][  0]LogSlate: Took 0.089097 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.08-22.53.37:315][  0]LogSlate: Took 0.052396 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.08-22.53.37:346][  0]LogSlate: Took 0.021378 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.08-22.53.37:727][  0]LogRenderer: Reallocating scene render targets to support 1276x412 Format 26 NumSamples 1 (Frame:1).
+[2019.05.08-22.53.38:952][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2019.05.08-22.53.38:952][  0]LogLoad: (Engine Initialization) Total time: 125.09 seconds
+[2019.05.08-22.53.38:953][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.81 seconds
+[2019.05.08-22.53.39:066][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.08-22.53.39:316][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.08-22.53.39:503][  0]LogSlate: Took 0.029779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.08-22.53.39:636][  1]LogAssetRegistry: Asset discovery search completed in 73.0385 seconds
+[2019.05.08-22.53.39:666][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.08-22.53.39:666][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.026935 seconds (updated 0 objects)
+[2019.05.08-22.54.48:396][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.54.48:710][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.54.49:561][152]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.54.50:456][205]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.54.52:222][301]Cmd: MAP LOAD FILE="../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.08-22.54.52:225][301]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.08-22.54.52:264][301]LightingResults: New page: Lighting Build
+[2019.05.08-22.54.52:265][301]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2019.05.08-22.54.52:315][301]MapCheck: New page: Map Check
+[2019.05.08-22.54.52:315][301]LightingResults: New page: Lighting Build
+[2019.05.08-22.54.58:062][301]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.08-22.54.58:142][301]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.08-22.54.58:187][301]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.08-22.54.58:187][301]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.128ms to complete.
+[2019.05.08-22.54.58:187][301]LogFileHelpers: Loading map 'MotionControllerMap' took 6.004
+[2019.05.08-22.54.58:188][301]LogSlate: Window 'Open Level' being destroyed
+[2019.05.08-22.55.02:747][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-22.56.39:014][747]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (37.652 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.08-22.57.05:130][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.57.06:663][400]MapCheck: New page: Map Check
+[2019.05.08-22.57.06:670][400]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.57.06:682][400]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.08-22.57.06:682][400]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.08-22.57.07:027][400]LightingResults: New page: Lighting Build - May 8, 2019, 2:57:07 PM
+[2019.05.08-22.57.07:457][400]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.08-22.57.08:623][400]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.08-22.57.08:781][400]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.08-22.57.11:453][400]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2019.05.08-22.57.11:630][400]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags) in D:\Build\++UE4\Sync\Engine\Saved\CsTools\Engine\Source\Editor\SwarmInterface\DotNET\SwarmInterface.cs:line 2811
+[2019.05.08-22.57.17:591][400]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.08-22.57.17:591][400]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14872
+[2019.05.08-22.57.22:515][400]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.08-22.57.22:515][400]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.08-22.57.22:515][400]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.08-22.57.22:515][400]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.08-22.57.22:515][400]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.08-22.57.23:601][400]LogEditorBuildUtils: Build time 0:16
+[2019.05.08-22.57.37:875][ 11]Job is a success!
+[2019.05.08-22.57.37:910][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-22.57.37:986][ 12]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2019.05.08-22.57.37:987][ 12]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.08-22.57.37:987][ 12]LogVolumetricLightmapImport:      BrickData 255x5x5 = 0.2Mb (trimmed 0.1Mb due to 0.010000 MinBrickError)
+[2019.05.08-22.57.37:987][ 12]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.08-22.57.37:987][ 12]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2019.05.08-22.57.37:987][ 12]LogVolumetricLightmapImport:          1: 15.7% covering 12.5% of volume
+[2019.05.08-22.57.37:987][ 12]LogVolumetricLightmapImport:          2: 82.4% covering 1.0% of volume
+[2019.05.08-22.57.38:444][ 12]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2019.05.08-22.57.38:444][ 12]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2019.05.08-22.57.38:444][ 12]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.05.08-22.57.38:444][ 12]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.05.08-22.57.38:592][ 12]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2019.05.08-22.57.38:592][ 12]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X512)
+[2019.05.08-22.57.38:864][ 12]Lightmass on MSI: 10.6 sec total, 5.05 sec importing, 145 ms setup, 1.45 sec photons, 3.35 sec processing, 0 ms extra exporting [24/24 mappings]. Threads: 23.2 sec total, 4.33 sec processing.
+[2019.05.08-22.57.38:993][ 12]LogStaticLightingSystem: Illumination: 31.9 sec (352 ms encoding lightmaps, 135 ms encoding shadowmaps)
+[2019.05.08-22.57.38:993][ 12]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.05.08-22.57.38:993][ 12]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2019.05.08-22.57.39:587][ 12]DumpUnbuiltLightIteractions
+[2019.05.08-22.57.39:587][ 12]Lights with unbuilt interactions: 0
+[2019.05.08-22.57.39:587][ 12]
+[2019.05.08-22.57.39:587][ 12]Primitives with unbuilt interactions: 0
+[2019.05.08-22.57.39:637][ 13]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.08-22.57.39:637][ 13]MapCheck: New page: MotionControllerMap - May 8, 2019, 2:57:39 PM
+[2019.05.08-22.57.39:674][ 13]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 37.587ms to complete.
+[2019.05.08-22.57.41:885][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-22.58.44:634][904]MapCheck: New page: Map Check
+[2019.05.08-22.58.44:653][904]Cmd: MAP REBUILD ALLVISIBLE
+[2019.05.08-22.58.44:654][904]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.05.08-22.58.44:947][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_0, compiling. 
+[2019.05.08-22.58.44:955][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_BaseMaterial2, compiling. 
+[2019.05.08-22.58.44:977][904]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-22.58.44:977][904]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-22.58.44:977][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Wood_Floor_Walnut_Polished, compiling. 
+[2019.05.08-22.58.45:004][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Basic_Wall, compiling. 
+[2019.05.08-22.58.45:022][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2019.05.08-22.58.45:030][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Brushed_Nickel, compiling. 
+[2019.05.08-22.58.45:036][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Lamp, compiling. 
+[2019.05.08-22.58.45:042][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Steel, compiling. 
+[2019.05.08-22.58.45:049][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy DefaultTextMaterialOpaque, compiling. 
+[2019.05.08-22.58.45:055][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy M_Metal_Gold, compiling. 
+[2019.05.08-22.58.45:062][904]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy blinn1SG, compiling. 
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.05.08-22.58.46:830][904]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.08-22.58.46:830][904]TextureStreamingBuild: Display: Compiling optional shaders took 1.888 seconds.
+[2019.05.08-22.58.46:880][904]LogLevel: Display: Export Material TexCoord Scales took 0.050 seconds.
+[2019.05.08-22.58.46:889][904]TextureStreamingBuild: Display: Build Texture Streaming took 0.008 seconds.
+[2019.05.08-22.58.46:908][904]LightingResults: New page: Lighting Build - May 8, 2019, 2:58:46 PM
+[2019.05.08-22.58.46:913][904]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.05.08-22.58.46:917][904]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.05.08-22.58.46:917][904]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.05.08-22.58.46:918][904]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.05.08-22.58.46:918][904]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14872
+[2019.05.08-22.58.51:438][904]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.05.08-22.58.51:438][904]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.05.08-22.58.51:438][904]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.05.08-22.58.51:439][904]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.05.08-22.58.51:439][904]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.05.08-22.58.51:625][904]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.05.08-22.58.51:625][904]MapCheck: New page: MotionControllerMap - May 8, 2019, 2:58:51 PM
+[2019.05.08-22.58.51:626][904]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.671ms to complete.
+[2019.05.08-22.58.51:650][904]LogEditorBuildUtils: Build time 0:07
+[2019.05.08-22.58.57:447][188]Job is a success!
+[2019.05.08-22.58.57:518][189]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2019.05.08-22.58.57:518][189]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.05.08-22.58.57:518][189]LogVolumetricLightmapImport:      BrickData 300x5x5 = 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2019.05.08-22.58.57:518][189]LogVolumetricLightmapImport:      Bricks at Level
+[2019.05.08-22.58.57:518][189]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2019.05.08-22.58.57:518][189]LogVolumetricLightmapImport:          1: 13.3% covering 12.5% of volume
+[2019.05.08-22.58.57:518][189]LogVolumetricLightmapImport:          2: 85.0% covering 1.2% of volume
+[2019.05.08-22.58.57:963][189]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.05.08-22.58.57:963][189]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.05.08-22.58.57:963][189]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.05.08-22.58.57:963][189]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.05.08-22.58.58:074][189]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2019.05.08-22.58.58:075][189]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X512)
+[2019.05.08-22.58.58:214][189]Lightmass on MSI: 5.04 sec total, 156 ms importing, 18 ms setup, 1.43 sec photons, 3.37 sec processing, 0 ms extra exporting [24/24 mappings]. Threads: 23.4 sec total, 4.32 sec processing.
+[2019.05.08-22.58.58:225][189]LogStaticLightingSystem: Illumination: 11.2 sec (354 ms encoding lightmaps, 100 ms encoding shadowmaps)
+[2019.05.08-22.58.58:225][189]LogStaticLightingSystem: Lightmap texture memory:  2.0 MB (0.0 MB streaming, 2.0 MB non-streaming), 4 textures
+[2019.05.08-22.58.58:225][189]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.0 MB streaming, 0.7 MB non-streaming), 2 textures
+[2019.05.08-22.58.58:447][189]DumpUnbuiltLightIteractions
+[2019.05.08-22.58.58:447][189]Lights with unbuilt interactions: 0
+[2019.05.08-22.58.58:447][189]
+[2019.05.08-22.58.58:447][189]Primitives with unbuilt interactions: 0
+[2019.05.08-22.58.58:534][190]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.05.08-22.58.58:534][190]MapCheck: New page: MotionControllerMap - May 8, 2019, 2:58:58 PM
+[2019.05.08-22.58.58:535][190]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.714ms to complete.
+[2019.05.08-23.04.55:540][585]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/MotionControllerMap_Auto16F0194D5461E23EB5524A49153CB88FC.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2019.05.08-23.04.55:543][585]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.338
+[2019.05.08-23.04.55:543][585]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.338
+[2019.05.08-23.06.15:383][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-23.06.23:630][441]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.05.08-23.06.24:380][441]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 117 classes and 0 folders.
+[2019.05.08-23.06.25:642][441]LogSlate: Took 0.021452 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.05.08-23.06.26:384][442]LogSlate: Took 0.040289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.05.08-23.06.40:209][207]LogRenderer: Reallocating scene render targets to support 1276x432 Format 26 NumSamples 1 (Frame:1).
+[2019.05.08-23.06.45:393][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.06.47:284][572]LogSlate: Window 'BP_MotionController' being destroyed
+[2019.05.08-23.06.57:820][180]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-23.07.00:290][321]LogEditorViewport: Clicking on Actor (LMB): OrderWindow_C (OrderWindow)
+[2019.05.08-23.07.02:948][466]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.07.54:980][184]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-23.08.49:268][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.08.49:705][100]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/MotionControllerMap42760D4D42920184E5ED8D99949D9993.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.05.08-23.08.49:956][100]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/MotionControllerMap_BuiltDataD52EE000437FBA2EE36A89BBF96A463A.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.05.08-23.10.16:296][180]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.10.16:412][187]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-23.10.16:426][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.16:491][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-23.10.16:491][187]PIE: New page: PIE session: MotionControllerMap (May 8, 2019, 3:10:16 PM)
+[2019.05.08-23.10.16:507][187]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.05.08-23.10.16:527][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019585s)
+[2019.05.08-23.10.16:528][187]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.08-23.10.16:529][187]LogPlayLevel: PIE: World Init took: (0.001630s)
+[2019.05.08-23.10.16:529][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.022056s)
+[2019.05.08-23.10.16:581][187]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.08-23.10.16:589][187]LogInit: FAudioDevice initialized.
+[2019.05.08-23.10.16:632][187]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.08-23.10.16:632][187]LogLoad: Game class is 'GameModeBase'
+[2019.05.08-23.10.16:676][187]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.05.08-19.10.16
+[2019.05.08-23.10.16:689][187]LogWorld: Bringing up level for play took: 0.014624
+[2019.05.08-23.10.16:715][187]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0012 seconds. Added 20 classes and 0 folders.
+[2019.05.08-23.10.16:718][187]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.798
+[2019.05.08-23.10.16:719][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.17:989][259]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_0
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.17:989][259]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.18:659][298]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_1
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.18:660][298]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.19:709][361]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_2
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.19:709][361]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.20:107][383]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_3
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.20:107][383]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.20:806][425]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_5
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.20:806][425]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.20:940][433]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_6
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.20:940][433]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.20:957][434]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_4
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.20:957][434]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.21:807][485]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_8
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.21:807][485]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.22:456][524]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_9
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.22:457][524]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.22:622][534]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_10
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.22:623][534]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.23:456][584]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_11
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.23:456][584]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.23:939][613]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_12
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.23:939][613]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.24:307][635]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_13
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.24:307][635]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.24:889][670]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_14
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.24:889][670]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.24:956][674]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_15
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.24:956][674]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.25:140][685]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_16
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.25:140][685]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.25:473][705]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_17
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.25:473][705]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.25:990][736]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_19
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.25:990][736]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.26:239][751]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_18
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.26:239][751]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.27:057][800]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_20
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.27:057][800]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.27:273][813]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_22
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.27:273][813]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.27:306][815]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_21
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.27:306][815]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.27:677][837]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_23
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.27:678][837]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.28:011][857]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_24
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.28:011][857]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.28:525][887]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_25
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.28:525][887]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.28:737][899]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_27
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.28:737][899]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.29:225][927]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_26
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.29:225][927]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.29:365][935]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_28
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.10.29:365][935]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.10.29:560][946]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.29:560][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.10.29:614][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-23.10.29:614][946]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.29:640][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.10.29:658][946]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-23.10.29:717][947]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.05.08-23.10.46:245][ 89]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-23.10.46:271][ 89]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-23.10.51:953][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.10.52:068][359]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-23.10.52:083][359]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.52:083][359]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-23.10.52:083][359]PIE: New page: PIE session: MotionControllerMap (May 8, 2019, 3:10:52 PM)
+[2019.05.08-23.10.52:083][359]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.05.08-23.10.52:090][359]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006505s)
+[2019.05.08-23.10.52:090][359]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.08-23.10.52:090][359]LogPlayLevel: PIE: World Init took: (0.000527s)
+[2019.05.08-23.10.52:090][359]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007192s)
+[2019.05.08-23.10.52:122][359]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.08-23.10.52:128][359]LogInit: FAudioDevice initialized.
+[2019.05.08-23.10.52:159][359]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.08-23.10.52:159][359]LogLoad: Game class is 'GameModeBase'
+[2019.05.08-23.10.52:160][359]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.05.08-19.10.52
+[2019.05.08-23.10.52:161][359]LogWorld: Bringing up level for play took: 0.001106
+[2019.05.08-23.10.52:173][359]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.253
+[2019.05.08-23.10.52:173][359]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.54:548][494]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.54:549][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.10.54:581][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-23.10.54:581][494]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.10.54:605][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.10.54:649][497]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.05.08-23.10.55:777][556]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Ingredients/strawberry.strawberry
+[2019.05.08-23.11.21:889][961]LogSlate: Window 'strawberry*' being destroyed
+[2019.05.08-23.11.21:894][961]LogSlate: Window 'strawberry*' being destroyed
+[2019.05.08-23.11.23:022][ 24]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-23.11.23:040][ 24]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.11.23:041][ 24]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.05.08-23.11.23:042][ 24]LogPlayLevel: [PlayLevel] Compiling strawberry before play...
+[2019.05.08-23.11.23:167][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/Ingredients/strawberry" FILE="../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Ingredients/strawberry.uasset" SILENT=true
+[2019.05.08-23.11.23:281][ 24]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/strawberry1C3D7FBA4B4CFBD2442B74BF48909FB9.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Ingredients/strawberry.uasset'
+[2019.05.08-23.11.23:312][ 24]LogPlayLevel: PlayLevel: Blueprint regeneration took 271 ms (1 blueprints)
+[2019.05.08-23.11.23:312][ 24]PIE: New page: PIE session: MotionControllerMap (May 8, 2019, 3:11:23 PM)
+[2019.05.08-23.11.23:312][ 24]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.05.08-23.11.23:318][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005915s)
+[2019.05.08-23.11.23:318][ 24]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.08-23.11.23:318][ 24]LogPlayLevel: PIE: World Init took: (0.000496s)
+[2019.05.08-23.11.23:319][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006529s)
+[2019.05.08-23.11.23:348][ 24]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.08-23.11.23:354][ 24]LogInit: FAudioDevice initialized.
+[2019.05.08-23.11.23:389][ 24]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.08-23.11.23:389][ 24]LogLoad: Game class is 'GameModeBase'
+[2019.05.08-23.11.23:391][ 24]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.05.08-19.11.23
+[2019.05.08-23.11.23:391][ 24]LogWorld: Bringing up level for play took: 0.001355
+[2019.05.08-23.11.23:405][ 24]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.516
+[2019.05.08-23.11.23:405][ 24]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.11.25:837][161]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_8
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.11.25:838][161]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.11.26:174][180]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.11.26:174][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.11.26:208][180]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-23.11.26:208][180]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.11.26:230][180]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.11.26:279][182]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.05.08-23.11.27:666][254]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-23.11.27:671][254]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-23.11.30:176][388]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Ingredients/strawberry.strawberry
+[2019.05.08-23.11.40:103][894]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.11.53:088][607]LogSlate: Window 'strawberry*' being destroyed
+[2019.05.08-23.11.53:094][607]LogSlate: Window 'strawberry*' being destroyed
+[2019.05.08-23.11.55:619][749]Cmd: TRANSACTION UNDO
+[2019.05.08-23.11.55:619][749]LogEditorTransaction: Undo Make New Scene Root
+[2019.05.08-23.11.56:160][776]Cmd: TRANSACTION UNDO
+[2019.05.08-23.11.56:160][776]LogEditorTransaction: Undo Make New Scene Root
+[2019.05.08-23.11.56:543][797]Cmd: TRANSACTION UNDO
+[2019.05.08-23.11.56:543][797]LogEditorTransaction: Undo Edit Simulate Physics
+[2019.05.08-23.11.56:979][822]Cmd: TRANSACTION UNDO
+[2019.05.08-23.11.56:979][822]LogEditorTransaction: Undo Move Actors
+[2019.05.08-23.11.58:032][882]Cmd: TRANSACTION UNDO
+[2019.05.08-23.11.58:032][882]LogEditorTransaction: Undo Create Actors
+[2019.05.08-23.12.00:205][985]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/MotionControllerMap3E32FC044DCC60179F4B2B9859146BB8.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.05.08-23.12.00:435][985]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/MotionControllerMap_BuiltData5A8E368B4943E5E5FF10C2BD5C27F8BD.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.05.08-23.12.10:490][574]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.12.10:781][580]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/MotionControllerMap30ED4EF9498C5B342D09A39F875C1EDE.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.05.08-23.12.10:898][580]LogSavePackage: Moving '../../../../../../Unreal Projects/WaffleWarrior/Saved/MotionControllerMap_BuiltData121AE9E04E7B0FDFA4480C87EDB368E8.tmp' to '../../../../../../Unreal Projects/WaffleWarrior/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.05.08-23.16.02:536][736]LogTemp: Repeating last play command: Selected Viewport
+[2019.05.08-23.16.02:557][736]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.16.02:557][736]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.08-23.16.02:557][736]PIE: New page: PIE session: MotionControllerMap (May 8, 2019, 3:16:02 PM)
+[2019.05.08-23.16.02:557][736]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.05.08-23.16.02:563][736]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006289s)
+[2019.05.08-23.16.02:564][736]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.08-23.16.02:564][736]LogPlayLevel: PIE: World Init took: (0.000589s)
+[2019.05.08-23.16.02:564][736]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007007s)
+[2019.05.08-23.16.02:592][736]LogInit: XAudio2 using 'Speakers (Realtek(R) Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.05.08-23.16.02:640][736]LogInit: FAudioDevice initialized.
+[2019.05.08-23.16.02:675][736]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.08-23.16.02:675][736]LogLoad: Game class is 'GameModeBase'
+[2019.05.08-23.16.02:679][736]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 60) at 2019.05.08-19.16.02
+[2019.05.08-23.16.02:679][736]LogWorld: Bringing up level for play took: 0.002388
+[2019.05.08-23.16.02:694][736]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.774
+[2019.05.08-23.16.02:695][736]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.16.03:660][791]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_0
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.03:661][791]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.03:713][794]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_1
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.03:713][794]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.04:363][831]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_2
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.04:364][831]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.04:381][832]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_4
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.04:381][832]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.04:590][844]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_3
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.04:590][844]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.04:943][864]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_5
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.04:943][864]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.05:523][897]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_7
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.05:523][897]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.05:612][902]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_8
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.05:612][902]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.05:664][905]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_9
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.05:664][905]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.05:752][910]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_6
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.05:752][910]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.05:982][923]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_11
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.05:982][923]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.05:982][923]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_12
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.05:982][923]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.06:193][935]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_10
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.06:193][935]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.07:036][983]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_13
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.07:036][983]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.07:053][984]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_14
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.07:054][984]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.07:105][987]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_16
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.07:106][987]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.07:369][  2]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_15
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.07:369][  2]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.08:195][ 49]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_18
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.08:195][ 49]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.08:282][ 54]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_17
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.08:283][ 54]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.08:300][ 55]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_19
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.08:300][ 55]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.08:669][ 76]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_21
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.08:669][ 76]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.08:846][ 86]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_20
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.08:846][ 86]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.08:863][ 87]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_23
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.08:864][ 87]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.09:198][106]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_22
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.09:198][106]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.09:611][130]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_24
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.09:611][130]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.09:711][136]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_26
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.09:711][136]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.09:712][136]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_25
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.09:712][136]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.10:262][169]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_27
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.10:262][169]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.10:461][181]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_28
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.10:461][181]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.10:477][182]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_29
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.10:478][182]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.10:896][207]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_30
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.10:896][207]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.11:045][216]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_31
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.11:045][216]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.11:211][226]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_32
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.11:211][226]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.11:311][232]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_34
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.11:311][232]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.11:344][234]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_35
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.11:345][234]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.11:778][260]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_36
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.11:778][260]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.11:795][261]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_37
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.11:795][261]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.12:456][300]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_38
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.12:456][300]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.12:493][302]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_41
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.12:493][302]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.12:510][303]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_40
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.12:510][303]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.13:015][332]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_42
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.13:015][332]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.13:085][336]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_39
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.13:085][336]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.13:086][336]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_43
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.13:086][336]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.13:554][364]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_44
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.13:554][364]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.13:554][364]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_45
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.13:554][364]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.14:105][397]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_47
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.14:105][397]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.14:220][404]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_49
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.14:220][404]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.14:454][418]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_48
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.14:454][418]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.14:604][427]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_46
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.14:604][427]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.14:821][440]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_50
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.14:821][440]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.15:354][472]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_51
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.15:354][472]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.15:470][479]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_52
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.08-23.16.15:470][479]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.08-23.16.15:904][505]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.16.15:904][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.16.15:939][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.08-23.16.15:939][505]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.08-23.16.15:965][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.08-23.16.15:973][505]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-23.16.16:039][506]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.05.08-23.16.18:286][627]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-23.16.18:298][627]LogSlate: Window 'Message Log' being destroyed
+[2019.05.08-23.22.29:088][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.08-23.22.29:127][ 38]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.023
+[2019.05.08-23.24.00:645][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.24.35:456][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.08-23.27.09:163][824]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2019.05.08-23.27.14:656][113]LogSlate: Window 'BP_MotionController' being destroyed
+[2019.05.08-23.27.14:668][113]LogSlate: Window 'BP_MotionController' being destroyed
+[2019.05.08-23.27.16:079][186]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/HMDLocomotionPawn.HMDLocomotionPawn
+[2019.05.08-23.32.29:519][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.029
+[2019.05.08-23.37.39:844][137]LogSlate: Window 'HMDLocomotionPawn' being destroyed
+[2019.05.08-23.37.39:910][137]LogSlate: Window 'WaffleWarrior - Unreal Editor' being destroyed
+[2019.05.08-23.37.39:959][137]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.05.08-23.37.40:391][138]Cmd: QUIT_EDITOR
+[2019.05.08-23.37.41:472][138]LogExit: Preparing to exit.
+[2019.05.08-23.37.43:215][138]LogExit: Editor shut down
+[2019.05.08-23.37.43:230][138]LogExit: Transaction tracking system shut down
+[2019.05.08-23.37.44:102][138]LogExit: Object subsystem successfully closed.
+[2019.05.08-23.37.44:284][138]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.05.08-23.37.44:352][138]LogD3D11RHI: Shutdown
+[2019.05.08-23.37.44:352][138]LogD3D11RHI: CleanupD3DDevice
+[2019.05.08-23.37.44:370][138]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.05.08-23.37.44:982][138]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.05.08-23.37.44:982][138]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.05.08-23.37.44:982][138]LogModuleManager: Shutting down and abandoning module BlueprintGraph (626)
+[2019.05.08-23.37.44:982][138]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (624)
+[2019.05.08-23.37.44:982][138]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.05.08-23.37.44:982][138]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.05.08-23.37.45:002][138]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.05.08-23.37.45:022][138]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.05.08-23.37.45:022][138]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.05.08-23.37.45:022][138]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.05.08-23.37.45:047][138]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.05.08-23.37.45:047][138]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.05.08-23.37.45:064][138]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.05.08-23.37.45:103][138]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.05.08-23.37.45:120][138]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.05.08-23.37.45:120][138]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.05.08-23.37.45:120][138]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.05.08-23.37.45:121][138]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.05.08-23.37.45:121][138]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.05.08-23.37.45:121][138]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.05.08-23.37.45:121][138]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.05.08-23.37.45:137][138]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.05.08-23.37.45:137][138]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.05.08-23.37.45:137][138]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.05.08-23.37.45:137][138]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.05.08-23.37.45:186][138]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.05.08-23.37.45:186][138]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.05.08-23.37.45:187][138]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.05.08-23.37.45:187][138]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.05.08-23.37.45:187][138]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.05.08-23.37.45:187][138]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.05.08-23.37.45:187][138]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.05.08-23.37.45:187][138]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.05.08-23.37.45:223][138]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.05.08-23.37.45:282][138]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.05.08-23.37.45:285][138]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.05.08-23.37.45:285][138]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.05.08-23.37.45:285][138]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.05.08-23.37.45:285][138]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.05.08-23.37.45:285][138]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.05.08-23.37.45:286][138]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.05.08-23.37.45:304][138]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.05.08-23.37.45:338][138]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.05.08-23.37.45:392][138]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.05.08-23.37.45:476][138]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.05.08-23.37.45:476][138]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.05.08-23.37.45:476][138]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.05.08-23.37.45:476][138]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.05.08-23.37.45:476][138]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.05.08-23.37.45:476][138]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.05.08-23.37.46:693][138]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.05.08-23.37.46:693][138]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.05.08-23.37.46:693][138]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.05.08-23.37.46:693][138]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.05.08-23.37.46:693][138]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.05.08-23.37.46:693][138]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.05.08-23.37.46:717][138]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.05.08-23.37.46:731][138]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.05.08-23.37.46:750][138]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.05.08-23.37.46:758][138]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.05.08-23.37.46:758][138]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.05.08-23.37.46:769][138]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.05.08-23.37.46:777][138]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.05.08-23.37.46:778][138]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.05.08-23.37.46:778][138]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.05.08-23.37.46:778][138]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.05.08-23.37.46:780][138]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.05.08-23.37.46:780][138]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.05.08-23.37.46:787][138]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.05.08-23.37.46:796][138]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.05.08-23.37.46:804][138]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.05.08-23.37.46:815][138]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.05.08-23.37.46:828][138]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.05.08-23.37.46:895][138]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.05.08-23.37.46:917][138]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.05.08-23.37.46:941][138]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.05.08-23.37.46:941][138]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.05.08-23.37.46:941][138]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.05.08-23.37.46:941][138]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.05.08-23.37.46:942][138]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.05.08-23.37.46:960][138]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.05.08-23.37.46:960][138]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.05.08-23.37.46:960][138]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.05.08-23.37.46:985][138]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.05.08-23.37.46:986][138]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.05.08-23.37.46:986][138]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.05.08-23.37.46:986][138]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.05.08-23.37.46:997][138]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.05.08-23.37.46:997][138]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.05.08-23.37.46:997][138]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.05.08-23.37.47:007][138]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.05.08-23.37.47:009][138]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.05.08-23.37.47:009][138]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.05.08-23.37.47:009][138]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.05.08-23.37.47:021][138]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.05.08-23.37.47:022][138]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.05.08-23.37.47:023][138]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.05.08-23.37.47:023][138]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.05.08-23.37.47:036][138]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.05.08-23.37.47:193][138]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.05.08-23.37.47:193][138]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.05.08-23.37.47:193][138]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.05.08-23.37.47:193][138]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.05.08-23.37.47:193][138]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.05.08-23.37.47:194][138]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.05.08-23.37.47:195][138]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.05.08-23.37.47:195][138]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.05.08-23.37.47:195][138]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.05.08-23.37.47:210][138]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.05.08-23.37.47:210][138]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.05.08-23.37.47:211][138]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.05.08-23.37.47:212][138]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.05.08-23.37.47:212][138]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.05.08-23.37.47:212][138]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.05.08-23.37.47:212][138]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.05.08-23.37.47:212][138]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.05.08-23.37.47:212][138]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.05.08-23.37.47:212][138]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.05.08-23.37.47:213][138]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.05.08-23.37.47:213][138]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.05.08-23.37.47:213][138]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.05.08-23.37.47:213][138]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.05.08-23.37.47:213][138]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.05.08-23.37.47:213][138]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.05.08-23.37.47:214][138]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.05.08-23.37.47:214][138]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.05.08-23.37.47:214][138]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.05.08-23.37.47:214][138]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.05.08-23.37.47:214][138]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.05.08-23.37.47:214][138]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.05.08-23.37.47:214][138]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.05.08-23.37.47:215][138]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.05.08-23.37.47:317][138]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.05.08-23.37.47:417][138]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.05.08-23.37.47:417][138]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.05.08-23.37.47:417][138]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.05.08-23.37.47:417][138]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.05.08-23.37.47:417][138]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.05.08-23.37.47:418][138]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.05.08-23.37.47:418][138]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.05.08-23.37.47:422][138]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.05.08-23.37.47:422][138]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.05.08-23.37.47:423][138]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.05.08-23.37.47:424][138]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.05.08-23.37.47:425][138]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.05.08-23.37.47:434][138]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.05.08-23.37.47:435][138]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.05.08-23.37.47:435][138]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.05.08-23.37.47:435][138]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.05.08-23.37.47:435][138]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.05.08-23.37.47:435][138]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.05.08-23.37.47:435][138]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.05.08-23.37.47:442][138]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.05.08-23.37.47:450][138]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.05.08-23.37.47:450][138]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.05.08-23.37.47:450][138]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.05.08-23.37.47:492][138]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.05.08-23.37.47:493][138]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.05.08-23.37.47:493][138]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.05.08-23.37.47:493][138]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.05.08-23.37.47:493][138]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.05.08-23.37.47:494][138]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.05.08-23.37.47:495][138]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.05.08-23.37.47:495][138]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.05.08-23.37.47:495][138]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.05.08-23.37.47:495][138]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.05.08-23.37.47:516][138]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.05.08-23.37.47:517][138]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.05.08-23.37.47:518][138]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.05.08-23.37.47:518][138]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.05.08-23.37.47:518][138]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.05.08-23.37.47:518][138]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.05.08-23.37.47:518][138]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.05.08-23.37.47:519][138]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.05.08-23.37.47:519][138]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.05.08-23.37.47:519][138]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.05.08-23.37.47:547][138]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.05.08-23.37.47:560][138]LogDerivedDataCache: Shutdown
+[2019.05.08-23.37.47:560][138]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.05.08-23.37.47:560][138]LogXGEController: Cleaning working directory: C:/Users/nmaga/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.05.08-23.37.47:561][138]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.05.08-23.37.47:562][138]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.05.08-23.37.47:562][138]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.05.08-23.37.47:562][138]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.05.08-23.37.47:563][138]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.05.08-23.37.47:563][138]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.05.08-23.37.47:563][138]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.05.08-23.37.47:563][138]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.05.08-23.37.47:563][138]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.05.08-23.37.47:563][138]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.05.08-23.37.47:564][138]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.05.08-23.37.47:564][138]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.05.08-23.37.47:564][138]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.05.08-23.37.47:564][138]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.05.08-23.37.47:564][138]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.05.08-23.37.47:565][138]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.05.08-23.37.47:565][138]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.05.08-23.37.47:602][138]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.05.08-23.37.47:603][138]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.05.08-23.37.47:603][138]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.05.08-23.37.47:603][138]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.05.08-23.37.47:603][138]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.05.08-23.37.47:617][138]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.05.08-23.37.47:617][138]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.05.08-23.37.47:626][138]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.05.08-23.37.47:626][138]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.05.08-23.37.47:673][138]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.05.08-23.37.47:673][138]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.05.08-23.37.47:673][138]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.05.08-23.37.47:673][138]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.05.08-23.37.47:673][138]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.05.08-23.37.47:674][138]LogHMD: Freeing OpenVRDLLHandle.
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.05.08-23.37.47:674][138]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.05.08-23.37.47:675][138]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.05.08-23.37.47:675][138]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.05.08-23.37.47:700][138]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.05.08-23.37.47:700][138]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.05.08-23.37.47:700][138]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B03071D43-403A-4F9B-1CB2-7EB032DA22CD%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=7b7cf76d43f51590e5131ea7230099d3%7Cdd280a8af22b403cb844c65091cc1e31%7Cf251dca5-9136-4491-943e-6308781499a4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.05.08-23.37.47:717][138]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.05.08-23.37.47:718][138]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.05.08-23.37.47:718][138]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.05.08-23.37.47:718][138]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.05.08-23.37.47:718][138]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.05.08-23.37.47:718][138]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.05.08-23.37.47:718][138]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.05.08-23.37.47:718][138]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.05.08-23.37.47:719][138]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.05.08-23.37.47:719][138]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.05.08-23.37.47:728][138]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.05.08-23.37.47:729][138]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.05.08-23.37.47:787][138]LogExit: Exiting.
+[2019.05.08-23.37.47:801][138]Log file closed, 05/08/19 19:37:47
