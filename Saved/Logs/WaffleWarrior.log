@@ -7910,3 +7910,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.09-13.21.15:099][514]LogSavePackage: Moving 'D:/Users/achan/Projects/Waffle-Warrior-II-Wafflin-Around/Saved/MotionControllerMap_BuiltDataC25682D242A3D4163C8BF6B18288ABDF.tmp' to 'D:/Users/achan/Projects/Waffle-Warrior-II-Wafflin-Around/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
 [2019.05.09-13.21.18:871][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.05.09-13.21.52:896][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.31.14:827][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.041
+[2019.05.09-13.36.15:207][179]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-13.36.17:135][403]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.09-13.36.17:847][488]LogTemp: Repeating last play command: Simulate
+[2019.05.09-13.36.17:868][488]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.09-13.36.17:869][488]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.05.09-13.36.17:869][488]PIE: New page: SIE session: MotionControllerMap (May 9, 2019, 5:36:17 AM)
+[2019.05.09-13.36.17:875][488]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.05.09-13.36.17:883][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008164s)
+[2019.05.09-13.36.17:884][488]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.05.09-13.36.17:884][488]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2019.05.09-13.36.17:884][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009103s)
+[2019.05.09-13.36.17:989][488]LogInit: XAudio2 using 'Speakers (3- USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.09-13.36.18:002][488]LogInit: FAudioDevice initialized.
+[2019.05.09-13.36.18:033][488]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2019.05.09-13.36.18:033][488]LogLoad: Game class is 'GameModeBase'
+[2019.05.09-13.36.18:035][488]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.05.09-09.36.18
+[2019.05.09-13.36.18:035][488]LogWorld: Bringing up level for play took: 0.001743
+[2019.05.09-13.36.18:047][488]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.05.09-13.36.18:050][488]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.17
+[2019.05.09-13.36.18:053][488]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.09-13.36.20:439][769]LogScript: Warning: Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill
+	WaffleBP_C /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap:PersistentLevel.WaffleBP_C_0
+	Function /Game/VirtualRealityBP/Ingredients/WaffleBP.WaffleBP_C:ExecuteUbergraph_WaffleBP:001A
+[2019.05.09-13.36.20:440][769]PIE: Error: Blueprint Runtime Error: "Attempted to access StaticMesh via property StaticMesh, but StaticMesh is pending kill". Blueprint:  WaffleBP Function:  Execute Ubergraph Waffle BP Graph:  EventGraph Node:  Set Material
+[2019.05.09-13.36.20:839][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.09-13.36.20:840][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.36.20:888][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.05.09-13.36.20:888][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.05.09-13.36.20:928][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.09-13.36.20:962][817]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2019.05.09-13.36.22:389][979]LogSlate: Window 'Message Log' being destroyed
+[2019.05.09-13.36.22:394][979]LogSlate: Window 'Message Log' being destroyed
+[2019.05.09-13.36.23:837][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.09-13.36.33:014][ 41]LogSavePackage: Moving 'D:/Users/achan/Projects/Waffle-Warrior-II-Wafflin-Around/Saved/MotionControllerMap4582C8654E902A08628006BB896381AB.tmp' to 'D:/Users/achan/Projects/Waffle-Warrior-II-Wafflin-Around/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.05.09-13.36.33:125][ 41]LogSavePackage: Moving 'D:/Users/achan/Projects/Waffle-Warrior-II-Wafflin-Around/Saved/MotionControllerMap_BuiltData4E8676114543AC6C7C16798DADAC4445.tmp' to 'D:/Users/achan/Projects/Waffle-Warrior-II-Wafflin-Around/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.05.09-13.36.34:289][158]LogSlate: FSceneViewport::OnFocusLost() reason 0
