@@ -32,6 +32,8 @@ public:
     float PointsForCompletion;
 
 protected:
+    FString Random
+
 	// Called when the game starts
 	virtual void BeginPlay() override;
 
