@@ -31,8 +31,10 @@ public:
     UPROPERTY(BlueprintReadOnly)
     float PointsForCompletion;
 
+	UPROPERTY(BlueprintReadOnly)
+	bool HasStrawberry;
+
 protected:
-    FString Random
 
 	// Called when the game starts
 	virtual void BeginPlay() override;
