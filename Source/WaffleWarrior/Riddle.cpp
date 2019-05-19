@@ -71,8 +71,43 @@ void URiddle::GenerateNewRiddle() {
 		PointsForCompletion = Waffles * 10 + (HasStrawberry ? 10 : 0);
 		break;
 	}
-    case RiddleType::PERCENTAGE:
-        break;
+	case RiddleType::PERCENTAGE: {
+	
+		break;
+	}
+	case RiddleType::PRIME: {
+		int type = FMath::RandRange(0, 1);
+		int primes[] = { 2, 3, 5, 7 };
+		int val = 0;
+
+		Text = "I want\n";
+		if (type == 0) {
+			// smallest prime greater than
+			val = FMath::RandRange(0, 6);
+			for (int i = 0; i < 4; ++i) {
+				if (primes[i] > val) {
+					Waffles = primes[i];
+					break;
+				}
+			}
+			Text += " the smallest prime number greater than " + FString::FromInt(val);
+		} else {
+			// largest prime less than
+			val = FMath::RandRange(3, 10);
+			for (int i = 0; i < 4; ++i) {
+				if (primes[i] < val) {
+					Waffles = primes[i];
+					break;
+				}
+			}
+			Text += " the largest prime number less than " + FString::FromInt(val);
+		}
+		Text += " waffles";
+		HasStrawberry = FMath::RandRange(0, 9) < 2;
+		Text += HasStrawberry ? "\nwith a sliced strawberry on top!" : " ";
+		PointsForCompletion = (Waffles + 3) * 10 + (HasStrawberry ? 20 : 0);
+		break;
+	}
     }
 }
 
