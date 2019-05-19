@@ -53,17 +53,22 @@ RiddleType SelectRandomRiddleType() {
 void URiddle::GenerateNewRiddle() {
     switch (SelectRandomRiddleType()) {
 	case RiddleType::ARITHMETIC: {
-		// Addition riddle
+		int type = FMath::RandRange(0, 1);
 		int sum = FMath::RandRange(1, 7);
 		int first = FMath::RandRange(0, sum);
 		int second = sum - first;
-		Waffles = sum;
-		PointsForCompletion = sum * 10;
 		Text = "I want\n";
-		Text += FString::FromInt(first) + " + " + FString::FromInt(second);
+		if (type == 0) {
+			Text += FString::FromInt(first) + " + " + FString::FromInt(second);
+			Waffles = sum;
+		} else {
+			Text += FString::FromInt(sum) + " - " + FString::FromInt(first);
+			Waffles = second;
+		}
 		Text += " waffles";
-		HasStrawberry = FMath::RandRange(0, 10) < 5;
+		HasStrawberry = FMath::RandRange(0, 9) < 3;
 		Text += HasStrawberry ? "\nwith a sliced strawberry on top!" : " ";
+		PointsForCompletion = Waffles * 10 + (HasStrawberry ? 10 : 0);
 		break;
 	}
     case RiddleType::PERCENTAGE:
