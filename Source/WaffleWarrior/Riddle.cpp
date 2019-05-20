@@ -36,6 +36,7 @@ float RiddleTypeProbabilities[] = { 0.35, 0.3, 0.25, 0.09, 0.01 };
 int NumberOfRiddleTypes = 5;
 
 RiddleType SelectRandomRiddleType() {
+	return RiddleType(FMath::RandRange(0, 2));
 	return RiddleType::ARITHMETIC;
     float randNum = FMath::RandRange(0, 1);
     float cumsum = 0;
@@ -55,7 +56,7 @@ void URiddle::GenerateNewRiddle() {
 	case RiddleType::ARITHMETIC: {
 		int type = FMath::RandRange(0, 1);
 		int sum = FMath::RandRange(1, 7);
-		int first = FMath::RandRange(0, sum);
+		int first = FMath::RandRange(0, sum - 1);
 		int second = sum - first;
 		Text = "I want\n";
 		if (type == 0) {
@@ -66,13 +67,22 @@ void URiddle::GenerateNewRiddle() {
 			Waffles = second;
 		}
 		Text += " waffles";
-		HasStrawberry = FMath::RandRange(0, 9) < 3;
+		HasStrawberry = FMath::RandRange(0, 9) < 5;
 		Text += HasStrawberry ? "\nwith a sliced strawberry on top!" : " ";
 		PointsForCompletion = Waffles * 10 + (HasStrawberry ? 10 : 0);
 		break;
 	}
 	case RiddleType::PERCENTAGE: {
-	
+		int percentages[] = { 5, 10, 20, 25, 50 };
+		Waffles = FMath::RandRange(1, 6);
+		int multiplier = percentages[FMath::RandRange(0, 4)];
+		float percentage = multiplier / 100.f;
+		int total = Waffles / percentage;
+		Text = "I want\n";
+		Text += FString::FromInt(multiplier) + "% of " + FString::FromInt(total) + " waffles";
+		HasStrawberry = FMath::RandRange(0, 9) < 3;
+		Text += HasStrawberry ? "\nwith a sliced strawberry on top!" : " ";
+		PointsForCompletion = Waffles * 15 + (HasStrawberry ? 15 : 0);
 		break;
 	}
 	case RiddleType::PRIME: {
@@ -94,7 +104,7 @@ void URiddle::GenerateNewRiddle() {
 		} else {
 			// largest prime less than
 			val = FMath::RandRange(3, 10);
-			for (int i = 0; i < 4; ++i) {
+			for (int i = 3; i >= 0; --i) {
 				if (primes[i] < val) {
 					Waffles = primes[i];
 					break;
@@ -105,9 +115,14 @@ void URiddle::GenerateNewRiddle() {
 		Text += " waffles";
 		HasStrawberry = FMath::RandRange(0, 9) < 2;
 		Text += HasStrawberry ? "\nwith a sliced strawberry on top!" : " ";
-		PointsForCompletion = (Waffles + 3) * 10 + (HasStrawberry ? 20 : 0);
+		PointsForCompletion = (Waffles + 2) * 15 + (HasStrawberry ? 20 : 0);
 		break;
 	}
+
+	default:
+		Waffles = FMath::RandRange(0, 7);
+		PointsForCompletion = Waffles * 5;
+		Text = "I want " + FString::FromInt(Waffles) + " waffles";
     }
 }
 
